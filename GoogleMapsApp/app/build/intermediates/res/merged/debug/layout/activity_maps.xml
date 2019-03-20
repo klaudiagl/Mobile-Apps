@@ -1,0 +1,151 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bootstrap_gray"
+    android:orientation="vertical">
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/addButton"
+        android:layout_centerVertical="true" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="38dp"
+        android:layout_marginLeft="10dp"
+        android:background="@color/bootstrap_gray">
+
+        <com.beardedhen.androidbootstrap.BootstrapButton
+            android:id="@+id/addButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="5dp"
+            android:text="Connect"
+            app:bootstrapBrand="primary"
+            app:bootstrapSize="lg"
+            app:buttonMode="regular"
+            app:roundedCorners="true"
+            app:showOutline="false"
+            tools:ignore="HardcodedText" />
+
+        <View
+            android:id="@+id/emptyView"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:id="@+id/textViewKM"
+            android:layout_width="100dp"
+            android:layout_height="200dp"
+            android:layout_marginRight="3dp"
+            android:layout_toEndOf="@+id/deleteButton"
+            android:text="@string/zeroDistance"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+            android:textSize="18sp"
+            android:translationY="10dp" />
+
+        <com.beardedhen.androidbootstrap.BootstrapButton
+            android:id="@+id/deleteButton"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:layout_alignBottom="@+id/addButton"
+            android:layout_below="@+id/emptyView"
+            android:layout_marginLeft="3dp"
+            android:layout_toEndOf="@+id/addButton"
+            android:text="Clear"
+            app:bootstrapBrand="primary"
+            app:bootstrapSize="lg"
+            app:buttonMode="regular"
+            app:roundedCorners="true"
+            app:showOutline="false" />
+
+        <CheckBox
+            android:id="@+id/checkBox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toEndOf="@+id/textViewKM"
+            android:checked="false" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="3dp"
+        android:background="@color/bootstrap_gray">
+
+        <Button
+            android:id="@+id/clearb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="26dp"
+            android:layout_toEndOf="@+id/drawline"
+            android:background="?attr/colorPrimary"
+            android:onClick="finishDrawing"
+            android:padding="10dp"
+            android:text="Clear"
+            android:textColor="@color/bootstrap_brand_secondary_fill" />
+
+        <Button
+            android:id="@+id/drawline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="81dp"
+            android:background="?android:attr/colorPrimary"
+            android:onClick="DrawLine"
+            android:padding="10dp"
+            android:text="DrawLine"
+            android:textColor="@color/bootstrap_brand_secondary_fill" />
+
+        <Button
+            android:id="@+id/draw_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="26dp"
+            android:layout_toStartOf="@+id/drawline"
+            android:background="@android:color/holo_purple"
+            android:onClick="drawZone"
+            android:padding="10dp"
+            android:text="Draw"
+            android:textColor="@color/bootstrap_brand_secondary_fill"
+            android:visibility="invisible" />
+
+        <fragment
+            android:id="@+id/map"
+            class="com.google.android.gms.maps.SupportMapFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/clearb"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true" />
+
+        <ImageView
+            android:id="@+id/drawer_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/clearb"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:clickable="false"
+            android:focusable="false"
+            android:focusableInTouchMode="true" />
+
+
+    </RelativeLayout>
+
+
+</LinearLayout>

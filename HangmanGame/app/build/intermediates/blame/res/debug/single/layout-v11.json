@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "Z:\\VI\\Aplikacje\\l2z2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Klaudia Głocka\\.android\\build-cache\\55bb494a1a093ef8fc2b1e4671b222d2889dd013\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "Z:\\VI\\Aplikacje\\l2z2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Klaudia Głocka\\.android\\build-cache\\55bb494a1a093ef8fc2b1e4671b222d2889dd013\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "Z:\\VI\\Aplikacje\\l2z2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Klaudia Głocka\\.android\\build-cache\\55bb494a1a093ef8fc2b1e4671b222d2889dd013\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "Z:\\VI\\Aplikacje\\l2z2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Klaudia Głocka\\.android\\build-cache\\55bb494a1a093ef8fc2b1e4671b222d2889dd013\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "Z:\\VI\\Aplikacje\\l2z2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Klaudia Głocka\\.android\\build-cache\\55bb494a1a093ef8fc2b1e4671b222d2889dd013\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "Z:\\VI\\Aplikacje\\l2z2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Klaudia Głocka\\.android\\build-cache\\55bb494a1a093ef8fc2b1e4671b222d2889dd013\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    }
+]

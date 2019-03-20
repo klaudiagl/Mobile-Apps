@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Klaudia Głocka\.android\build-cache\36a562e4a9223a47e5326fa3505bb64f9eb6f9cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="Z:\VI\Aplikacje\GoogleMapsApp\app\build\intermediates\pre-dexed\debug\classes_35c19630bb6dbd0aba4e19b9c6eb8e60bd4e3324.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Klaudia Głocka\.android\build-cache\13529d4a8981c7ad15d4b8add4713c418ba64ce4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="Z:\VI\Aplikacje\GoogleMapsApp\app\build\intermediates\pre-dexed\debug\classes_55dbe3bc68fe2019fe0de48812deae82651760ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Klaudia Głocka\.android\build-cache\3ec2893529580ffd7afc5888316640bcaea2f376\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="Z:\VI\Aplikacje\GoogleMapsApp\app\build\intermediates\pre-dexed\debug\classes_54e35db3c2973fc0b62dacbdf4b4f9e43ced6a82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Klaudia Głocka\.android\build-cache\dd48284b3ee607bc9c606c1d45b39c03b1697284\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="Z:\VI\Aplikacje\GoogleMapsApp\app\build\intermediates\pre-dexed\debug\classes_8f632a77af89de82863024675623288eb26d3498.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Z:\PROGRAMY\SDK\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="Z:\VI\Aplikacje\GoogleMapsApp\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_d5b2ba24db5898219a39e8acdbbe1aefa34a7bb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Klaudia Głocka\.android\build-cache\1a9610523de0ad6a66df07e4b9685c895fabd91a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="Z:\VI\Aplikacje\GoogleMapsApp\app\build\intermediates\pre-dexed\debug\classes_98e0c7b3c47fb565b7b97e320d323fae162c23d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Klaudia Głocka\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.6.0\48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8\butterknife-annotations-8.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8">
+        <dex dex="Z:\VI\Aplikacje\GoogleMapsApp\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.6.0_466ff078a79026c2ec1c7e5e712ce7dffb124649.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Klaudia Głocka\.android\build-cache\be6aadeb22a9a661258a6a840fee562142c1d40f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be587097e648eabfb7f9eca23ab03369894e2d5d">
+        <dex dex="Z:\VI\Aplikacje\GoogleMapsApp\app\build\intermediates\pre-dexed\debug\classes_8c2e682d6c82acd86d6276f909edbaa17134a9cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Klaudia Głocka\.android\build-cache\c2a51f7ae350c53c240bb9b00a5002f1eb1038b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="Z:\VI\Aplikacje\GoogleMapsApp\app\build\intermediates\pre-dexed\debug\classes_e2aa2c8b91521db0abacab76cbcea49a22406b8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Klaudia Głocka\.android\build-cache\9dc1ec6115389d6f4e8e819b7053c1f506200673\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="Z:\VI\Aplikacje\GoogleMapsApp\app\build\intermediates\pre-dexed\debug\classes_c393bccd5ab02b089a99a4930e324deaa99b2e08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Klaudia Głocka\.android\build-cache\ac6d617aabef1600356941e317efbebe6872a41c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="Z:\VI\Aplikacje\GoogleMapsApp\app\build\intermediates\pre-dexed\debug\classes_beb329cb1925daa249acd43add89087ba7ac132d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Klaudia Głocka\.android\build-cache\c2e099210575d15135e6d64ce709f9d8db1383de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="Z:\VI\Aplikacje\GoogleMapsApp\app\build\intermediates\pre-dexed\debug\classes_a3c15b2c38fbdfa680f88dcbfe50c968f929f0ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Klaudia Głocka\.android\build-cache\27617cb768222b885d6949175e6be18ed71f84ac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="Z:\VI\Aplikacje\GoogleMapsApp\app\build\intermediates\pre-dexed\debug\classes_6a55457ec8e631d50865299f4d27e2211d45efe0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Klaudia Głocka\.android\build-cache\485f936a699680ba9268b7db1a19c0add03361ec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="Z:\VI\Aplikacje\GoogleMapsApp\app\build\intermediates\pre-dexed\debug\classes_630a3448be8723dcc865a113e3461071ca2c58fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Klaudia Głocka\.android\build-cache\6fabbb0c80c8a4f24fd534f73b01ba8f4a9b7354\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="Z:\VI\Aplikacje\GoogleMapsApp\app\build\intermediates\pre-dexed\debug\classes_15e290a13aa76314581d5036ed0892bd886b3a1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Klaudia Głocka\.android\build-cache\5b8bd2563a4ffcba3430950abe760d124d476b56\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15d27cbae6167c3ae26842789c07898cda5c0dce">
+        <dex dex="Z:\VI\Aplikacje\GoogleMapsApp\app\build\intermediates\pre-dexed\debug\classes_47a2614a16d971c9a18eb0bb2f90a09949f28d5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Klaudia Głocka\.android\build-cache\a8c024c3433e2b033d06b4c76ebe21a279a16940\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="Z:\VI\Aplikacje\GoogleMapsApp\app\build\intermediates\pre-dexed\debug\classes_47598b8da24c7ac2613b8aa7f7aef19cd751567b.jar" />
+    </item>
+
+</items>

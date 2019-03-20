@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Klaudia Głocka\.android\build-cache\de93b682850c09ed73ce69bfc6fa1aba9d1f8e9e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="Z:\VI\Aplikacje\NumberGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1476d050da360fa8e351be9f7ba903cd497c7a2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Klaudia Głocka\.android\build-cache\3f778ff44ef099eff7290ea0eb16cb37d390a47e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="Z:\VI\Aplikacje\NumberGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2d2cc5e06eaf055fa755358be5f2f782d70eecd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\VI\Aplikacje\NumberGame\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="Z:\VI\Aplikacje\NumberGame\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f2d7c4e2e7ec7275372b72ef83e4768c49b0c930\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Klaudia Głocka\.android\build-cache\5b7df1c01ff4b982b56d596dd198ed5868415d28\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="Z:\VI\Aplikacje\NumberGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_753b1a0ecaad3811d34b3253705f314fb519cdc6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\VI\Aplikacje\NumberGame\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="49ba01a9bf63443ebe879104c3125110adf722b8">
+        <dex dex="Z:\VI\Aplikacje\NumberGame\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ccd0f9f3d303bb77df464885782aabbdfcb8767c\classes.dex" />
+    </item>
+
+</items>

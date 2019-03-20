@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from Z:\VI\Aplikacje\Tetris\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from Z:\VI\Aplikacje\Tetris\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from Z:\VI\Aplikacje\Tetris\app\src\main\AndroidManifest.xml
+		INJECTED from Z:\VI\Aplikacje\Tetris\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from Z:\VI\Aplikacje\Tetris\app\src\main\AndroidManifest.xml
+		INJECTED from Z:\VI\Aplikacje\Tetris\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from Z:\VI\Aplikacje\Tetris\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from Z:\VI\Aplikacje\Tetris\app\src\main\AndroidManifest.xml
+		INJECTED from Z:\VI\Aplikacje\Tetris\app\src\main\AndroidManifest.xml
+application
+ADDED from Z:\VI\Aplikacje\Tetris\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Klaudia G這cka\.android\build-cache\f0f49f5d3931681bece231074d12fcbab568b1d5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Klaudia G這cka\.android\build-cache\4a7eb6fc1ac30ce367033e2e94ddae91f1509ced\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Klaudia G這cka\.android\build-cache\d4bb496e8a317a2e77303f4b25c3a812eb70bba0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Klaudia G這cka\.android\build-cache\6b87cf54ec723821a23220f078d80d79ba4bd6a9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Klaudia G這cka\.android\build-cache\2ff0cf46ea49dbd6caac00e7172d26ea091023e4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Klaudia G這cka\.android\build-cache\d6c1f1e4bba8f160e07800a3dac929222254c74a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Klaudia G這cka\.android\build-cache\0eab6604ded781fd448ff1b430c2160f4fc647c3\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Klaudia G這cka\.android\build-cache\13492e03da5d202c08a6a8aa1c30117ad19ede29\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Klaudia G這cka\.android\build-cache\05ef3efa28a33ef1e403188e7a044a67e1b2e1f1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Klaudia G這cka\.android\build-cache\a38e351255a7e8daeb32156432799175ab169f56\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from Z:\VI\Aplikacje\Tetris\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from Z:\VI\Aplikacje\Tetris\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from Z:\VI\Aplikacje\Tetris\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from Z:\VI\Aplikacje\Tetris\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from Z:\VI\Aplikacje\Tetris\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from Z:\VI\Aplikacje\Tetris\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.klaudiagocka.tetris.MainActivity
+ADDED from Z:\VI\Aplikacje\Tetris\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from Z:\VI\Aplikacje\Tetris\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from Z:\VI\Aplikacje\Tetris\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from Z:\VI\Aplikacje\Tetris\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from Z:\VI\Aplikacje\Tetris\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from Z:\VI\Aplikacje\Tetris\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from Z:\VI\Aplikacje\Tetris\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from Z:\VI\Aplikacje\Tetris\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Klaudia G這cka\.android\build-cache\f0f49f5d3931681bece231074d12fcbab568b1d5\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Klaudia G這cka\.android\build-cache\4a7eb6fc1ac30ce367033e2e94ddae91f1509ced\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Klaudia G這cka\.android\build-cache\d4bb496e8a317a2e77303f4b25c3a812eb70bba0\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Klaudia G這cka\.android\build-cache\6b87cf54ec723821a23220f078d80d79ba4bd6a9\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Klaudia G這cka\.android\build-cache\2ff0cf46ea49dbd6caac00e7172d26ea091023e4\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Klaudia G這cka\.android\build-cache\d6c1f1e4bba8f160e07800a3dac929222254c74a\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Klaudia G這cka\.android\build-cache\0eab6604ded781fd448ff1b430c2160f4fc647c3\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Klaudia G這cka\.android\build-cache\13492e03da5d202c08a6a8aa1c30117ad19ede29\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Klaudia G這cka\.android\build-cache\05ef3efa28a33ef1e403188e7a044a67e1b2e1f1\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Klaudia G這cka\.android\build-cache\a38e351255a7e8daeb32156432799175ab169f56\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Klaudia G這cka\.android\build-cache\f0f49f5d3931681bece231074d12fcbab568b1d5\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from Z:\VI\Aplikacje\Tetris\app\src\main\AndroidManifest.xml
+		INJECTED from Z:\VI\Aplikacje\Tetris\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from Z:\VI\Aplikacje\Tetris\app\src\main\AndroidManifest.xml
+		INJECTED from Z:\VI\Aplikacje\Tetris\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Klaudia G這cka\.android\build-cache\f0f49f5d3931681bece231074d12fcbab568b1d5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Klaudia G這cka\.android\build-cache\4a7eb6fc1ac30ce367033e2e94ddae91f1509ced\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Klaudia G這cka\.android\build-cache\d4bb496e8a317a2e77303f4b25c3a812eb70bba0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Klaudia G這cka\.android\build-cache\6b87cf54ec723821a23220f078d80d79ba4bd6a9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Klaudia G這cka\.android\build-cache\2ff0cf46ea49dbd6caac00e7172d26ea091023e4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Klaudia G這cka\.android\build-cache\d6c1f1e4bba8f160e07800a3dac929222254c74a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Klaudia G這cka\.android\build-cache\0eab6604ded781fd448ff1b430c2160f4fc647c3\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Klaudia G這cka\.android\build-cache\13492e03da5d202c08a6a8aa1c30117ad19ede29\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Klaudia G這cka\.android\build-cache\05ef3efa28a33ef1e403188e7a044a67e1b2e1f1\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Klaudia G這cka\.android\build-cache\f0f49f5d3931681bece231074d12fcbab568b1d5\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Klaudia G這cka\.android\build-cache\f0f49f5d3931681bece231074d12fcbab568b1d5\output\AndroidManifest.xml:26:9-47

@@ -1,0 +1,24 @@
+{
+  "citiesArray" : [
+    {
+      "cityName"   : "Wroclaw",
+      "latitude"   : "51.107885",
+      "longitude"  : "17.038538"
+    },
+    {
+      "cityName"   : "Paris",
+      "latitude"   : "48.856614",
+      "longitude"  : "2.352222"
+    },
+    {
+      "cityName"   : "London",
+      "latitude"   : "51.507351",
+      "longitude"  : "-0.127758"
+    },
+    {
+      "cityName"   : "Berlin",
+      "latitude"   : "52.520007",
+      "longitude"  : "13.404954"
+    }
+  ]
+}

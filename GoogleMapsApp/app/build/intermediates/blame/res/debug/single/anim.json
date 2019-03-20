@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "Z:\\VI\\Aplikacje\\GoogleMapsApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Klaudia Głocka\\.android\\build-cache\\9dc1ec6115389d6f4e8e819b7053c1f506200673\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Klaudia\\Desktop\\Studia\\Aplikacje\\GoogleMapsApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Klaudia\\.android\\build-cache\\7005a46a2d27afbcee894a9abc29d2a238c4dc7b\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "Z:\\VI\\Aplikacje\\GoogleMapsApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Klaudia Głocka\\.android\\build-cache\\9dc1ec6115389d6f4e8e819b7053c1f506200673\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "Z:\\VI\\Aplikacje\\GoogleMapsApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Klaudia Głocka\\.android\\build-cache\\9dc1ec6115389d6f4e8e819b7053c1f506200673\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Klaudia\\Desktop\\Studia\\Aplikacje\\GoogleMapsApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Klaudia\\.android\\build-cache\\7005a46a2d27afbcee894a9abc29d2a238c4dc7b\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "Z:\\VI\\Aplikacje\\GoogleMapsApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Klaudia Głocka\\.android\\build-cache\\9dc1ec6115389d6f4e8e819b7053c1f506200673\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "Z:\\VI\\Aplikacje\\GoogleMapsApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Klaudia Głocka\\.android\\build-cache\\9dc1ec6115389d6f4e8e819b7053c1f506200673\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "Z:\\VI\\Aplikacje\\GoogleMapsApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Klaudia Głocka\\.android\\build-cache\\9dc1ec6115389d6f4e8e819b7053c1f506200673\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Klaudia\\Desktop\\Studia\\Aplikacje\\GoogleMapsApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Klaudia\\.android\\build-cache\\7005a46a2d27afbcee894a9abc29d2a238c4dc7b\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "Z:\\VI\\Aplikacje\\GoogleMapsApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Klaudia Głocka\\.android\\build-cache\\9dc1ec6115389d6f4e8e819b7053c1f506200673\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Klaudia\\Desktop\\Studia\\Aplikacje\\GoogleMapsApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Klaudia\\.android\\build-cache\\7005a46a2d27afbcee894a9abc29d2a238c4dc7b\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Klaudia\\Desktop\\Studia\\Aplikacje\\GoogleMapsApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Klaudia\\.android\\build-cache\\7005a46a2d27afbcee894a9abc29d2a238c4dc7b\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Klaudia\\Desktop\\Studia\\Aplikacje\\GoogleMapsApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Klaudia\\.android\\build-cache\\7005a46a2d27afbcee894a9abc29d2a238c4dc7b\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "Z:\\VI\\Aplikacje\\GoogleMapsApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Klaudia Głocka\\.android\\build-cache\\9dc1ec6115389d6f4e8e819b7053c1f506200673\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "Z:\\VI\\Aplikacje\\GoogleMapsApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Klaudia Głocka\\.android\\build-cache\\9dc1ec6115389d6f4e8e819b7053c1f506200673\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Klaudia\\Desktop\\Studia\\Aplikacje\\GoogleMapsApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Klaudia\\.android\\build-cache\\7005a46a2d27afbcee894a9abc29d2a238c4dc7b\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "Z:\\VI\\Aplikacje\\GoogleMapsApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Klaudia Głocka\\.android\\build-cache\\9dc1ec6115389d6f4e8e819b7053c1f506200673\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Klaudia\\Desktop\\Studia\\Aplikacje\\GoogleMapsApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Klaudia\\.android\\build-cache\\7005a46a2d27afbcee894a9abc29d2a238c4dc7b\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Klaudia\\Desktop\\Studia\\Aplikacje\\GoogleMapsApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Klaudia\\.android\\build-cache\\7005a46a2d27afbcee894a9abc29d2a238c4dc7b\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Klaudia\\Desktop\\Studia\\Aplikacje\\GoogleMapsApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Klaudia\\.android\\build-cache\\7005a46a2d27afbcee894a9abc29d2a238c4dc7b\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    }
+]
